@@ -1,6 +1,6 @@
 # Decoding EEG signals for BCI applications 
 
-This was a learning project given by a company. Each task is written in a google colab notebook with concise code and detailed annotations. More information about each task can be viewed in the attached task odf document. Data is hidden due to copyright.
+This was a learning project given by a company. Each task is written in a google colab notebook with concise code and detailed annotations. More information about each task can be viewed in the 'Tasks_Results_Presentation.pdf' document. Data is hidden due to copyright.
 
 ## Task 1: Binary classification of SSVEP response based on focused flickering stimuli
 EEG signals were segmented into epochs based on the onset of a flickering stimuli (7 Hz, 8.25 Hz, 10 Hz, 12 Hz) and the time of user-confirmed focused stimuli. Following that, machine learning algorithm was applied to classify the eeg segments according to the user-confirmed stimuli class. 
